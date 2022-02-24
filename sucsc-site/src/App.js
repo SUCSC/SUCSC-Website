@@ -7,6 +7,10 @@ import Dan from './components/us/Dan'
 import Erika from './components/us/Erika'
 import Ivan from './components/us/Ivan'
 import Sabrina from './components/us/Sabrina'
+import Eric from './components/us/Eric'
+import Andres from './components/us/Andres'
+
+
 
 function App() {
   return (
@@ -18,6 +22,8 @@ function App() {
         <Route exact path='/Erika' element={<Erika/>} />
         <Route exact path='/Ivan' element={<Ivan/>} />
         <Route exact path='/Sabrina' element={<Sabrina/>} />
+        <Route exact path='/Eric' element={<Eric/>} />
+        <Route exact path='/Andres' element={<Andres/>} />
       </Routes>
     </div>
   );
