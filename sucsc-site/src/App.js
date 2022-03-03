@@ -10,8 +10,6 @@ import Sabrina from './components/us/Sabrina'
 import Eric from './components/us/Eric'
 import Andres from './components/us/Andres'
 
-
-
 function App() {
   return (
     <div className='App'>
