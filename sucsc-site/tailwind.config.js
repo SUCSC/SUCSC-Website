@@ -7,6 +7,9 @@ module.exports = {
       fontFamily: {
         UncutSansRegular: ['UncutSansRegular']
       },
+      backgroundImage: {
+        'carson-background': 'url("/src/img/cs-film.jpg")',
+      },
     },
   },
   plugins: [],
