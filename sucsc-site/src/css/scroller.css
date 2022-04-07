@@ -1,17 +1,17 @@
 .scroller {
-    animation: 8s scroll linear infinite;
+    animation: 12s scroll linear infinite;
 }
 
 .scroller2 {
-    animation: 8s scroll2 linear infinite;
+    animation: 12s scroll2 linear infinite;
 }
 
 .scroller3 {
-    animation: 9s scroll3 linear infinite;
+    animation: 12s scroll3 linear infinite;
 }
 
 .scroller4 {
-    animation: 9s scroll4 linear infinite;
+    animation: 12s scroll4 linear infinite;
 }
 
 @keyframes scroll {
