@@ -5,7 +5,8 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        UncutSansRegular: ['UncutSansRegular']
+        UncutSansRegular: ['UncutSansRegular'],
+        FredokaOneRegular: ['FredokaOneRegular'],
       },
       backgroundImage: {
         'carson-background': 'url("/src/img/cs-film.jpg")',

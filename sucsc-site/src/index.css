@@ -6,3 +6,8 @@
     font-family: 'UncutSansRegular';
     src: url(fonts/UncutSansRegular.otf);
 }
+
+@font-face {
+    font-family: 'FredokaOneRegular';
+    src: url(fonts/FredokaOneRegular.otf);
+}
